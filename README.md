@@ -6,5 +6,5 @@ This is a collection of our weekly exercises, including the articles we discuss,
 ## Agent-Based Modelling
 This repository includes the agent-based modelling exercises carried out by group members. Code pieces of Game of Life, Simple Economy, Segregation, Assimilation models can be found here.
 
-## Twitter Project
-This project will start after initial preperations are done.
+## Machine Learning Models
+This repository will soon incorporate our social sciences related machine learning works.
